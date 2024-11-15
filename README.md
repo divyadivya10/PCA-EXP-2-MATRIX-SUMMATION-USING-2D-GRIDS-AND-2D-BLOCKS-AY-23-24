@@ -3,7 +3,7 @@
 ### NAME: Divya R
 ### REGISTER NO: 212222040040
 ### EX. NO: 02
-### DATE: 13.09.2024
+### DATE: 
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
